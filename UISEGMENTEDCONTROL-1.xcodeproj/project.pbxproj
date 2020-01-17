@@ -14,6 +14,7 @@
 		83DF7995234326BA007401CB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 83DF7993234326BA007401CB /* LaunchScreen.storyboard */; };
 		83DF79A0234326BA007401CB /* UISEGMENTEDCONTROL_1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83DF799F234326BA007401CB /* UISEGMENTEDCONTROL_1Tests.swift */; };
 		83DF79AB234326BA007401CB /* UISEGMENTEDCONTROL_1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83DF79AA234326BA007401CB /* UISEGMENTEDCONTROL_1UITests.swift */; };
+		83DF79B9234327BC007401CB /* online.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83DF79B8234327BC007401CB /* online.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		83DF79A6234326BA007401CB /* UISEGMENTEDCONTROL-1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "UISEGMENTEDCONTROL-1UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		83DF79AA234326BA007401CB /* UISEGMENTEDCONTROL_1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UISEGMENTEDCONTROL_1UITests.swift; sourceTree = "<group>"; };
 		83DF79AC234326BA007401CB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		83DF79B8234327BC007401CB /* online.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = online.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				83DF7991234326BA007401CB /* Assets.xcassets */,
 				83DF7993234326BA007401CB /* LaunchScreen.storyboard */,
 				83DF7996234326BA007401CB /* Info.plist */,
+				83DF79B8234327BC007401CB /* online.swift */,
 			);
 			path = "UISEGMENTEDCONTROL-1";
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			files = (
 				83DF798D234326B5007401CB /* ViewController.swift in Sources */,
 				83DF798B234326B5007401CB /* AppDelegate.swift in Sources */,
+				83DF79B9234327BC007401CB /* online.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
